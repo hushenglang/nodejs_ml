@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_ml",
+  "version": "1.0.0",
+  "description": "nodejs+machine_learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hushenglang/nodejs_ml.git"
+  },
+  "author": "hushenglang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hushenglang/nodejs_ml/issues"
+  },
+  "homepage": "https://github.com/hushenglang/nodejs_ml#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

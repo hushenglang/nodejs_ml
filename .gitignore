@@ -1,1 +1,9 @@
-*.zip
+node_modules
+
+.vagrant
+.DS_Store
+
+Vagrantfile
+.idea
+*.iml
+
